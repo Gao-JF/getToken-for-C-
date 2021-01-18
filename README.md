@@ -26,7 +26,7 @@ reinterpret_cast requires return short signed sizeof static static_assert
 static_cast struct switch template this thread_local throw true try typedef 
 typeid typename union unsigned using  
 4.注释：//单行注释  
-/*多行注释*/   
+/\*多行注释\*/   
 5.特殊符号：支持识别特殊符号，但不支持多个特殊符号组成的运算符  
 6.字符串："支持扫描字符串"  
 
