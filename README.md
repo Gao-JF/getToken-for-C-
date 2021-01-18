@@ -1,4 +1,4 @@
-# getToken-for-C-
+# getToken-for-cpp  
 C++源代码单词扫描程序
 # 一、实验内容及要求：
 
