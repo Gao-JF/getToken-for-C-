@@ -1,0 +1,4 @@
+new & && # reinterpret_cast - ; << typeid *= ( &= ~ ^ . -- * .* 
+static_cast sizeof ) [ % > throw ? | \\ , ] >>= :: < ->* } dynamic_cast 
+! / || { -> " ^= $ == : 
+delete <= ?: = ++ <<= >> -= |= != \' const_cast >= +

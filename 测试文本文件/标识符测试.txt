@@ -1,0 +1,16 @@
+a_bc
+a_BC
+abc
+a12
+A43b
+A224B
+aasg21B
+_123ACB
+_12abc
+_abc12
+_abc
+_123
+a_123
+A_213
+___________a
+a_____b213
